@@ -2,7 +2,7 @@
 #include <stdarg.h> //가변인자 제공
 #include <math.h> //수학 기능 제공
 
-void printrank(int rank)
+void printRank(int rank)
 {
 	if (rank == 1)
 	{
@@ -28,7 +28,10 @@ int main()
 	rank = 3;
 	printRank(rank); //3rd
 
+	
 	scanf("%d", &rank);
+	
+	
 
 	return 0;
 }
