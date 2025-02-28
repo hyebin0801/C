@@ -12,6 +12,7 @@ int main()
 	double c = -2;
 	Quadformula(a, b, c);
 	//힌트 : 2차 방정식을 풀기위해서는 근의 공식을 이용해봅니다.
+	// x는 2a분의 -b +-루트 b제곱 - 4ac
 
 	return 0;
 }
