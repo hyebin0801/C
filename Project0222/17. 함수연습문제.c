@@ -7,7 +7,7 @@ int main()
 
 	printf("root 4 = %.2f\n", sqrt(4));
 
-	//x제곱 - 2x = 2를 풀이하시오.
+	//1. x제곱 - 2x = 2를 풀이하시오.
 	double a = 1;
 	double b = -2;
 	double c = -2;
