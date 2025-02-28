@@ -2,15 +2,33 @@
 #include <stdarg.h> //가변인자 제공
 #include <math.h> //수학 기능 제공
 
+void printrank(int rank)
+{
+	if (rank == 1)
+	{
+		printf("1st");
+	}
+	else if (rank == 2)
+	{
+		printf("2nd");
+	}
+	else if (rank == 3)
+	{
+		printf("3rd");
+	}
+}
+
 int main()
 {
-	//2. 다음 조건을 만족하는 printRank를 구현하세요
+
 	int rank = 1;
 	printRank(rank); //1st
 	rank = 2;
 	printRank(rank); //2nd
 	rank = 3;
 	printRank(rank); //3rd
+
+	scanf("%d", &rank);
 
 	return 0;
 }
