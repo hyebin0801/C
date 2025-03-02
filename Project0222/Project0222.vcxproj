@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="21. 문자열에 관한 기능.c" />
+=======
+    <ClCompile Include="17.함수연습문제4번.c" />
+>>>>>>> 3f98e39fbabaf39644eb50f64a5f708075bbdf46
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

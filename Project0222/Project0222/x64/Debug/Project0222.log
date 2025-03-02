@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ﻿  21. 문자열에 관한 기능.c
 C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(30,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
 C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(31,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
 C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(35,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
 C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(36,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
   Project0222.vcxproj -> C:\Users\admin\Documents\GitHub\C\Project0222\x64\Debug\Project0222.exe
+=======
+﻿  17.함수연습문제4번.c
+C:\Users\bt\Documents\GitHub\C\Project0222\17.함수연습문제4번.c(20,1): warning C4716: 'isOdd': 값을 반환해야 합니다.
+  Project0222.vcxproj -> C:\Users\bt\Documents\GitHub\C\Project0222\x64\Debug\Project0222.exe
+>>>>>>> 3f98e39fbabaf39644eb50f64a5f708075bbdf46
