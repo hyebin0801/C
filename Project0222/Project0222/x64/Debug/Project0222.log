@@ -1,0 +1,6 @@
+﻿  21. 문자열에 관한 기능.c
+C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(30,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(31,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(35,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\admin\Documents\GitHub\C\Project0222\21. 문자열에 관한 기능.c(36,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  Project0222.vcxproj -> C:\Users\admin\Documents\GitHub\C\Project0222\x64\Debug\Project0222.exe

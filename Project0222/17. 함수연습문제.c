@@ -7,12 +7,14 @@ int main()
 
 	printf("root 4 = %.2f\n", sqrt(4));
 
-	//x제곱 - 2x = 2를 풀이하시오.
+	//1.x제곱 - 2x = 2를 풀이하시오.
 	double a = 1;
 	double b = -2;
 	double c = -2;
 	Quadformula(a,b,c);
 	//힌트 : 2차 방정식을 풀기위해서는 근의 공식을 이용해봅니다.
+
+
 
 	//2. 다음 조건을 만족하는 printRank를 구현하세요
 	int rank = 1;
@@ -22,11 +24,18 @@ int main()
 	rank = 3;
 	printRank(rank); //3rd
 
+
+
+
+
 	//3. 다음 조건을 만족하는 average를 구현하세요.
 	float result1 = average(3, 100, 95, 90); //95.00
 	float result2 = average(4, 100, 95, 90,80); //91.25
 	//힌트 printf("%2.f",value)를 활용하면 소수점 2자리까지 출력 가능
 
+	//3번 정답
+	printf("3번 정답 : %2.f , %2.f", result1, result2);
+		
 	//4. 다음 조건을 만족하는 isOdd를 구현하세요
 	isOdd(3); //"YES"
 	isOdd(4); //"NO"
