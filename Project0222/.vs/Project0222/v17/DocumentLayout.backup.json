@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFEF7FCC-C18C-4CED-B04F-C3CFA1B09A61}|Project0222.vcxproj|C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFEF7FCC-C18C-4CED-B04F-C3CFA1B09A61}|Project0222.vcxproj|solutionrelative:17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFEF7FCC-C18C-4CED-B04F-C3CFA1B09A61}|Project0222.vcxproj|C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFEF7FCC-C18C-4CED-B04F-C3CFA1B09A61}|Project0222.vcxproj|solutionrelative:17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c",
-              "DocumentMoniker": "C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c",
-              "RelativeDocumentMoniker": "17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c",
-              "ToolTip": "C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c",
-              "RelativeToolTip": "17. \uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.c",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwF4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T04:47:52.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c",
               "DocumentMoniker": "C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c",
               "RelativeDocumentMoniker": "17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c",
               "ToolTip": "C:\\Users\\bt\\Documents\\GitHub\\C\\Project0222\\17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c",
               "RelativeToolTip": "17.\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C4\uBC88.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-28T08:49:52.383Z",
               "EditorCaption": ""
