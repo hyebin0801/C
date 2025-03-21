@@ -14,7 +14,10 @@ int avg(int sum, int count)
 {
 	return sum / count;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> dba111590fe992ed376285767b8cef1f937e9487
 //배열 전체의 값을 조사해서 중앙 값 확인(배열 정렬)
 int center(int numbers[], int size)
 {
